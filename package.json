@@ -1,0 +1,31 @@
+{
+  "name": "react-native-image-picker-tfca",
+  "version": "0.1.1",
+  "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera (Tailored for chinese android devices)",
+  "author": "Marc Shilling (marcshilling)",
+  "contributors": [
+    {
+      "name": "Xu Chang",
+      "email": "chinawraith@163.com"
+    }
+  ],
+  "homepage": "https://github.com/XuChangZJU/react-native-image-picker-tfca",
+  "nativePackage": false,
+  "evolvedFrom": "https://github.com/marcshilling/react-native-image-picker",
+  "keywords": [
+    "react-native",
+    "react-native-image-picker",
+    "react",
+    "native",
+    "image",
+    "picker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XuChangZJU/react-native-image-picker-tfca"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.21.0"
+  }
+}
